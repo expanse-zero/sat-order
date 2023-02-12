@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "noPropertyAccessFromIndexSignature": false,
+    "lib": ["es2022"],
+    "module": "es2022",
+    "target": "es2022",
+    "moduleResolution": "node",
+    "strict": true,
+    "skipLibCheck": true,
+  },
+  "include": [
+    "./src/**/*",
+  ],
+  "exclude": [
+    "./node_modules/**/*",
+    "./coverage/**/*",
+    "./dist/**/*",
+    "./test/**/*"
+  ]
+}
