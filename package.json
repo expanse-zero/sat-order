@@ -1,0 +1,19 @@
+{
+  "name": "sat-order",
+  "version": "0.0.0",
+  "description": "satellite order type and utils",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/expanse-zero/sat-order.git"
+  },
+  "author": "giladh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/expanse-zero/sat-order/issues"
+  },
+  "homepage": "https://github.com/expanse-zero/sat-order#readme"
+}
